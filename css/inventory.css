@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(inventory.jpg);
+    background-image: url(../inventory/inventory.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;

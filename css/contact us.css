@@ -31,7 +31,7 @@ p{
 
 }
 body{
-    background-image: url(contact.jpg);
+    background-image: url(../inventory/contact.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;

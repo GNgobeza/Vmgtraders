@@ -19,7 +19,7 @@
     float: left;
 }
 body{
-    background-image: url(services.jpg);
+    background-image: url(../inventory/services.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
